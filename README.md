@@ -1,6 +1,6 @@
 # AI Agent Reliability Cockpit
 
-An interactive 10-minute boardroom demo that proves AI agents in enterprise audit can be **controlled, transparent, and measurably improvable** — without model retraining or black-box infrastructure.
+An interactive demo that proves AI agents in enterprise audit can be **controlled, transparent, and measurably improvable** — without model retraining or black-box infrastructure.
 
 Built for C-Suite, Audit Leaders, and Compliance Officers.
 
